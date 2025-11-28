@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-google-genai
+python-dotenv
+google-generativeai
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+sentence-transformers
+faiss-cpu
+pymupdf
+pypdf
+base64
